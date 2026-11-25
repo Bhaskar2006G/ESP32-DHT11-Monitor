@@ -1,0 +1,10 @@
+ESP32 Temperature and Humidity Monitor
+Testing Results
+
+1. ESP32 connected successfully.
+2. DHT11 sensor readings received.
+3. Temperature readings displayed on ThingSpeak.
+4. Humidity readings displayed on ThingSpeak.
+5. ThingSpeak dashboard updated successfully.
+
+Test Status: Successful
